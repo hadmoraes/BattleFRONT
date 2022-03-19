@@ -1,4 +1,4 @@
-# Projeto final do módulo 2: Lançamento de produto - BattleFRONT 💡
+# Projeto final do módulo 2: Lançamento de produto - BattleFRONT
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
