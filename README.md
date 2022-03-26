@@ -67,9 +67,9 @@
 
 <hr>
 
-<h2 id="grupo">Link do Projeto</h2>
+<h2 id="grupo">Página do Projeto</h2>
 
-  (https://hadmoraes.github.io/BattleFRONT/)
+ - [Projeto](https://hadmoraes.github.io/BattleFRONT/)
 
 <hr>
 
