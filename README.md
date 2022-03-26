@@ -8,7 +8,7 @@
   <a href="#grupo">Autores</a> 
 </div>
 
-<h2 id="sobre">Sobre 🔎</h2>
+<h2 id="sobre">Sobre</h2>
   <p>Projeto onde precisamos desenvolver o front-end para apresentar um novo produto lançado pela empresa "FrontEnders", onde poderíamos inventar o produto que quiséssemos, pensando em algo que seria legal para ajudar no dia a dia com programação ou estudos.
   Nosso projeto também precisaria estar de acordo com os seguintes requisitos:</p>
 
@@ -21,11 +21,11 @@
 
 <br>
 
-<h2 id="andamento">Andamento do projeto 📈</h2>
+<h2 id="andamento">Andamento do projeto</h2>
 
   ![Badge](https://img.shields.io/website?down_message=em%20andamento&label=STATUS&style=for-the-badge&up_message=conclu%C3%ADdo&url=https%3A%2F%2Fytallobruno.github.io%2FProjetoFinalModulo2%2F)
 
-<h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
+<h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto</h2>
 
   - [x] HTML5
   - [x] CSS3
@@ -37,7 +37,7 @@
   - [x] Git
   - [x] Kanban
 
-<h2 id="habilidades">Habilidades Adquiridas 📝</h2>
+<h2 id="habilidades">Habilidades Adquiridas</h2>
 
   - Indentação do código
   - Tags semânticas (HTML)
@@ -58,7 +58,7 @@
 
 <hr>
 
-<h2 id="grupo">Autores 🥇</h2>
+<h2 id="grupo">Autores</h2>
 
   - [Christopher Mamed](https://www.linkedin.com/in/christopher-mamed-407485139/)
   - [Hadassa Moraes](https://www.linkedin.com/in/hadassa-moraes-5a6712230/)
@@ -66,6 +66,14 @@
   - [Ytallo Bruno](https://https://linkedin.com/in/ytallobruno)
 
 <hr>
+
+<h2 id="grupo">Link do Projeto</h2>
+
+  (https://hadmoraes.github.io/BattleFRONT/)
+
+<hr>
+
+
 
 <div align="center">
   &#129145;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#129145;
