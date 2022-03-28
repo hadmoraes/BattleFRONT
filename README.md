@@ -9,7 +9,7 @@
 </div>
 
 <h2 id="sobre">Sobre</h2>
-  <p>Projeto onde precisamos desenvolver o front-end para apresentar um novo produto lançado pela empresa "FrontEnders", onde poderíamos inventar o produto que quiséssemos, pensando em algo que seria legal para ajudar no dia a dia com programação ou estudos.
+  <p>Projeto onde precisamos desenvolver o front-end para apresentar um novo produto lançado pela empresa "FrontEnders", onde poderíamos inventar o produto que quiséssemos, pensando em algo que seria legal para ajudar no dia a dia com programação ou estudos. Assim, desenvolvemos a BattleFRONT, uma plataforma de testes voltada aos desenvolvedores front-end que estão no começo da carreira ou já atuam na área. Com a finalidade de desenvolver o raciocínio lógico através de problemas de forma descomplicada, sendo nosso diferencial essa forma simples de resolução dos exercícios propostos, que podem ser resolvidos por pessoas de diversas idades com a mesma didática.
   Nosso projeto também precisaria estar de acordo com os seguintes requisitos:</p>
 
   - Possuir home, página de detalhes sobre o serviço, cadastro na lista de espera, contato, log in e recuperação de senha;
