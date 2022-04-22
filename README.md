@@ -33,7 +33,6 @@
   - [x] JavaScript
   - [x] JQuery
   - [x] API - ViaCEP
-  - [x] Hoppscotch (para visualização do JSON)
   - [x] Git
   - [x] Kanban
 
